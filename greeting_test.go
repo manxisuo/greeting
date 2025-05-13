@@ -9,3 +9,7 @@ func TestHello(t *testing.T) {
 func TestHi(t *testing.T) {
 	Hi() // Should just print
 }
+
+func TestHey(t *testing.T) {
+	Hey() // Should just print
+}
